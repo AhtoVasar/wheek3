@@ -1,0 +1,27 @@
+body {
+    background-color:gray ;
+}
+
+.ingredients {
+    border: black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.ingredients-tabel{
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border:  1px solid black;
+    margin: 0 auto;
+    width: 75%;
+}
